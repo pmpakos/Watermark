@@ -14,4 +14,5 @@ java -jar WatermarkImage.jar [list-of-image-filenames]
 
 | Original | Watermarked |
 |---------|-------|
-|![alt text]()|![alt_text]()|
+|![alt text](https://raw.githubusercontent.com/pmpakos/Watermark/master/examples/mr_meeseeks.jpg)|![alt_text](https://raw.githubusercontent.com/pmpakos/Watermark/master/examples/mr_meeseeks_teraFUN.jpg)|
+
