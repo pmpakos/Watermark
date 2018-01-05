@@ -22,7 +22,7 @@ public class WatermarkImage{
     public static void main(String[] args) {
         // Everything was created using help from https://www.richardnichols.net/2010/09/how-to-add-dynamic-watermark-to-jpeg-java/. Thanks
 
-        String watermark = "\u00a9 TeraFUN"; // Special character (Copyright)
+        String watermark = "\u00a9 TeraFUN "; // Special character (Copyright)
         for (String s: args)
         {
             String str = s;
