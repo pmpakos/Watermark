@@ -80,7 +80,7 @@ public class WatermarkImage{
 
             int ind = str.lastIndexOf(".");
             if( ind>=0 )
-                str = new StringBuilder(str).replace(ind, ind+1,"_teraFUN.").toString();
+                str = new StringBuilder(str).replace(ind, ind+1,".").toString();
             File newFile = new File(str);
 
             try {
